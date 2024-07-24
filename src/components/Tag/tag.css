@@ -1,0 +1,14 @@
+#tag-text {
+  margin: 5px;
+  padding: 2px 5px;
+  border-radius: 20px;
+}
+.perm {
+  border: 1px solid red;
+}
+.acc2024 {
+  border: 1px solid yellow;
+}
+.sub {
+  border: 1px solid #00ff4c;
+}
